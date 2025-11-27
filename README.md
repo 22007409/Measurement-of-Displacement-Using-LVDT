@@ -1,4 +1,6 @@
-# Aim: 
+
+
+## Aim: 
 Measurement of Displacement using LVDT
 ## Objective:-
 Study the relation between core displacement and output of LVDT
@@ -53,7 +55,10 @@ b = length of primary winding (= 20mm)
 m = length of secondary winding (= 10 mm)
 
 
-## Output waveforms:
+## Output:
+
+<img width="544" height="501" alt="Screenshot 2025-09-23 160845" src="https://github.com/user-attachments/assets/bc94cd31-47a9-4da1-9b1b-f6ad27399db7" />
+
 
 
 
@@ -61,6 +66,4 @@ m = length of secondary winding (= 10 mm)
 
 
 ## Result:
-
-
-
+Measurement of Displacement using LVDT has been measured.
